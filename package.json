@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/fontsubset",
+  "version": "1.0.0",
+  "description": "Analyze web fonts and suggest optimization strategies",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/fontsubset.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/fontsubset.test.js"
+  },
+  "bin": {
+    "fontsubset": "bin/cli.js"
+  }
+}
