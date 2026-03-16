@@ -18,5 +18,9 @@
   },
   "bin": {
     "fontsubset": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/fontsubset",
+  "bugs": {
+    "url": "https://github.com/idirdev/fontsubset/issues"
   }
 }
